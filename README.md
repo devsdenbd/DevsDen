@@ -9,6 +9,6 @@
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevsDenBD&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/TalhaBinAshraf1)  
+![GitHub metrics](https://metrics.lecoq.io/DevsDenBD)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevsDenBD)  

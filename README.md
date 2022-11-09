@@ -12,10 +12,10 @@ Saving time for its clients, in the long run, is the ultimate goal while making 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/company/devsdenbd/)  
 
  <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/company/89705736/)">
+  <a href="(https://www.linkedin.com/company/89705736/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/DevsDenBD)">
+  <a href="(https://twitter.com/DevsDenBD)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>

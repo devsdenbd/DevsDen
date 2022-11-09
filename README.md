@@ -11,7 +11,7 @@ Saving time for its clients, in the long run, is the ultimate goal while making 
  
  <div id="badges">
    <a href="https://calendly.com/devsdenbd/meeting-at-google-meet?month=2022-11">
-    <img src="https://img.shields.io/badge/Book a Call -blue?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
+    <img src="https://img.shields.io/badge/Book a Call -red?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
     </a>
  
   <a href="https://www.linkedin.com/company/89705736/">
@@ -21,7 +21,7 @@ Saving time for its clients, in the long run, is the ultimate goal while making 
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
    <a href="https://www.instagram.com/devsdenbd/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-purpel?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
    <a href="https://www.facebook.com/DevsDenBD/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>

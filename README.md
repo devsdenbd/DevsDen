@@ -2,7 +2,7 @@
  ![Profile views](https://gpvc.arturio.dev/DevsDenBD)
  
  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media-exp1.licdn.com/dms/image/D560BAQE3Oxhpg2vg0A/company-logo_200_200/0/1667619336675?e=1675900800&v=beta&t=_4gvFqyf5WkQqJ56L6aWFpONtxlEKOhceccdlbltI0o" width="100"/>
 </div>
 
 <p> ✅Established in 2021, Devs Den is a full-service provider of IT solutions with team members who have a strong track record in the local and global markets through various platforms with excellent adaptability.

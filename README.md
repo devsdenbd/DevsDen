@@ -1,8 +1,3 @@
- <div id="Book a Call" align="left">
-![Profile views](https://gpvc.arturio.dev/DevsDenBD) 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=DevsDenBD.DevsDenBD)
-  </div>
-  
  <div id="Book a Call" align="right">
    <a href="https://calendly.com/devsdenbd/meeting-at-google-meet?month=2022-11">
     <img src="https://img.shields.io/badge/Book a Call -red?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
@@ -17,6 +12,11 @@
 🌍Devs Den Always looks forward to scaling projects with the utmost technology which can benefit you not only today but also in the future.
 Saving time for its clients, in the long run, is the ultimate goal while making sure the standard that one needs for the current century.</p>
 
+ <div id="Book a Call" align="left">
+![Profile views](https://gpvc.arturio.dev/DevsDenBD) 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=DevsDenBD.DevsDenBD)
+  </div>
+  
   <div id="Badge">
 
   <a href="https://www.linkedin.com/company/89705736/">
@@ -30,10 +30,7 @@ Saving time for its clients, in the long run, is the ultimate goal while making 
     </a>
    <a href="https://www.facebook.com/DevsDenBD/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-
-  
- 
+    </a> 
 </div>
 
 

@@ -1,7 +1,8 @@
- ![Profile views](https://gpvc.arturio.dev/DevsDenBD) 
- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=DevsDenBD.DevsDenBD)
-
- 
+ <div id="Book a Call" align="left">
+![Profile views](https://gpvc.arturio.dev/DevsDenBD) 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=DevsDenBD.DevsDenBD)
+  </div>
+  
  <div id="Book a Call" align="right">
    <a href="https://calendly.com/devsdenbd/meeting-at-google-meet?month=2022-11">
     <img src="https://img.shields.io/badge/Book a Call -red?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>

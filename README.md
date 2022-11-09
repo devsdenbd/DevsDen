@@ -1,4 +1,5 @@
- ![Profile views](https://gpvc.arturio.dev/DevsDenBD) ![Profile views](https://visitor-badge.glitch.me/badge?page_id=DevsDenBD.DevsDenBD)
+ ![Profile views](https://gpvc.arturio.dev/DevsDenBD) 
+ ![Profile views](https://visitor-badge.glitch.me/badge?page_id=DevsDenBD.DevsDenBD)
 
 
  <div id="header" align="center">
@@ -10,6 +11,7 @@
 Saving time for its clients, in the long run, is the ultimate goal while making sure the standard that one needs for the current century.</p>
  
  <div id="badges">
+ 
    <a href="https://calendly.com/devsdenbd/meeting-at-google-meet?month=2022-11">
     <img src="https://img.shields.io/badge/Book a Call -red?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
     </a>

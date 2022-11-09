@@ -15,8 +15,13 @@ Saving time for its clients, in the long run, is the ultimate goal while making 
   </a>
   <a href="https://twitter.com/DevsDenBD">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   
+<h3 align="center">A passionate frontend developer from India</h3>
 
-   <a href="https://fb.com/https://www.facebook.com/devsdenbd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-    readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/devsdenbd/" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/devsdenbd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/devsdenbd/" height="30" width="40" /></a>
+</p>
  
 </div>
 

@@ -20,6 +20,10 @@ Saving time for its clients, in the long run, is the ultimate goal while making 
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
  
+    <a href="https://www.instagram.com/devsdenbd/">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+ 
 </div>
 
 

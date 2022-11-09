@@ -9,14 +9,18 @@
 🌍Devs Den Always looks forward to scaling projects with the utmost technology which can benefit you not only today but also in the future.
 Saving time for its clients, in the long run, is the ultimate goal while making sure the standard that one needs for the current century.</p>
  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/company/devsdenbd/)  
-
  <div id="badges">
   <a href="https://www.linkedin.com/company/89705736/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/DevsDenBD">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="https://twitter.com/DevsDenBD">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="https://calendly.com/devsdenbd/meeting-at-google-meet">
+    <img src="[https://img.shields.io/badge/Twitter-blue](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcareers.calendly.com%2Fjobs%2Fjob%2F481-customer-success-manager-iii-recruiting-software%2F%3Fgh_jid%3D6442842002&psig=AOvVaw2YTf0Wc-J4ISTbRk0GMbTt&ust=1668069380026000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjU-OjYoPsCFQAAAAAdAAAAABAE)?style=for-the-badge&logo=twitter&logoColor=white" alt="Calendly Badge"/>
   </a>
 </div>
 

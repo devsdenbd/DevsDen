@@ -1,4 +1,4 @@
- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=DevsDenBD.DevsDenBD)
+ ![Profile views](https://gpvc.arturio.dev/DevsDenBD) ![Profile views](https://visitor-badge.glitch.me/badge?page_id=DevsDenBD.DevsDenBD)
 
 
  <div id="header" align="center">

@@ -10,6 +10,10 @@
 Saving time for its clients, in the long run, is the ultimate goal while making sure the standard that one needs for the current century.</p>
  
  <div id="badges">
+   <a href="https://calendly.com/devsdenbd/meeting-at-google-meet?month=2022-11">
+    <img src="https://img.shields.io/badge/Book a Call -blue?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
+    </a>
+ 
   <a href="https://www.linkedin.com/company/89705736/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -22,9 +26,7 @@ Saving time for its clients, in the long run, is the ultimate goal while making 
    <a href="https://www.facebook.com/DevsDenBD/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-  <a href="https://calendly.com/devsdenbd/meeting-at-google-meet?month=2022-11">
-    <img src="https://img.shields.io/badge/Calendly-blue?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
-    </a>
+
   
  
 </div>

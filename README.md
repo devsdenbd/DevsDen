@@ -4,7 +4,8 @@
   </a>
  </div>
 
-<img src="https://img.shields.io/badge/Book a Call -red?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
+<button type="button" class="btn btn-success btn-lg">Large button</button>
+
 
 
  <div id="header" align="center">

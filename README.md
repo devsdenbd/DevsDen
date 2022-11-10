@@ -4,7 +4,7 @@
   </a>
  </div>
  
-<button type="button" class="btn btn-primary btn-sm">Small button</button>
+<button type="button" class="btn btn-primary btn-lg">Small button</button>
 
 
  <div id="header" align="center">

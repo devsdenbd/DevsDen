@@ -1,7 +1,7 @@
  <div id="Book a Call" align="right">
  <a href="https://calendly.com/devsdenbd/meeting-at-google-meet?month=2022-11">
-   <button type ="button"><img src="https://img.shields.io/badge/Book a Call -red?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
-    </a></button>
+     <img src="https://img.shields.io/badge/Book a Call -red?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
+  </a>
  </div>
 
  <div id="header" align="center">

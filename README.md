@@ -4,49 +4,6 @@
   </a>
  </div>
 
-
-
-<head>
-<style>
-.button {
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
-
-.button1 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #4CAF50;
-}
-
-.button1:hover {
-  background-color: #4CAF50;
-  color: white;
-}
-
-</style>
-</head>
-<body>
-
-
-<button class="button button1">Book a Call </button>
-
-</body>
-
-
-
-
-
-
-
  <div id="header" align="center">
   <img src="https://media-exp1.licdn.com/dms/image/D4D3DAQFS56T2APfpUg/image-scale_191_1128/0/1667932323350?e=1668589200&v=beta&t=-R6o4Lh6-gvLgnx0mZaqTjSpizp-s6LKhNiivYFisv4" width="1000"/>
 </div>

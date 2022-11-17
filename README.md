@@ -5,7 +5,7 @@
  </div>
 
  <div id="header" align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/D4D3DAQFS56T2APfpUg/image-scale_191_1128/0/1667932323350?e=1668589200&v=beta&t=-R6o4Lh6-gvLgnx0mZaqTjSpizp-s6LKhNiivYFisv4" width="1000"/>
+  <img src="https://pbs.twimg.com/profile_banners/1581516269089873920/1667804763/600x200" width="1000"/>
 </div>
 
 <p> ✅Established in 2021, Devs Den is a full-service provider of IT solutions with team members who have a strong track record in the local and global markets through various platforms with excellent adaptability.

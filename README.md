@@ -5,7 +5,7 @@
  </div>
 
  <div id="header" align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1581516269089873920/1667804763/600x200" width="1000"/>
+  <img src="https://pbs.twimg.com/profile_banners/1581516269089873920/1667804763/" width="1000"/>
 </div>
 
 
